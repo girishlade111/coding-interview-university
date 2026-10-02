@@ -2019,3 +2019,9 @@ Sit back and enjoy.
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+
+## About This Copy
+
+This is a personal study copy of the open-source [Coding Interview University](https://github.com/jwasham/coding-interview-university) study plan by John Washam, maintained here as my interview-prep reference.
+
+Built by [Girish Lade](https://ladestack.in)
